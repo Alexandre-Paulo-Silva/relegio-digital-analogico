@@ -1,1 +1,3 @@
-# relegio-digital-analogico
+# relogio analogico e digital feito em javascript
+
+
